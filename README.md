@@ -30,15 +30,14 @@ JavaScript: Implemented interactive features, task tracking, and reminders.
 
 Screenshots :
 Screenshot 1:![TODO_FrontPage](https://github.com/somashekar17/TODO-App/assets/49157790/7e2ca5e2-79de-44ab-901e-d2c0349b6f38)#
-Screenshot 2 :![TODO_FrontPage](https://github.com/somashekar17/TODO-App/assets/49157790/a05637bb-7a60-4154-adbf-0c45a239b910)
 
+Screenshot 2 :![TODO_TaskPage](https://github.com/somashekar17/TODO-App/assets/49157790/b0ee66ae-af69-4231-9998-7cf9fc941ad5)
 
-Screenshot 3 :![TODO_TaskPage](https://github.com/somashekar17/TODO-App/assets/49157790/b0ee66ae-af69-4231-9998-7cf9fc941ad5)
-
+Screenshot 3 :![TODO_Reminder](https://github.com/somashekar17/TODO-App/assets/49157790/99012426-0136-4071-a9ab-c7c06d111105)
 
 Screenshot 4 :![TODO_FinalPage](https://github.com/somashekar17/TODO-App/assets/49157790/3eb2633f-842f-4f56-9b17-b05efc53d1af)
 
-Screenshot 5 :![TODO_Reminder](https://github.com/somashekar17/TODO-App/assets/49157790/99012426-0136-4071-a9ab-c7c06d111105)
+
 
 License
 This project is licensed under the MIT License.
