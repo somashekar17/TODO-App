@@ -5,6 +5,7 @@ Overview
 The To-Do App is a lightweight, user-friendly web application that helps you manage your tasks efficiently. It offers an intuitive interface to add, track, and complete tasks, ensuring you stay organized and productive.
 
 Features
+
 Task Management: Add new tasks, set due dates, and prioritize important tasks with ease.
 
 Task Tracking: Mark tasks as completed or important to stay on top of your responsibilities.
@@ -12,6 +13,7 @@ Task Tracking: Mark tasks as completed or important to stay on top of your respo
 Due Date Reminders: Tasks with due dates automatically provide reminders, helping you meet deadlines.
 
 How to Use
+
 Add Tasks: Enter task descriptions and optional due dates in the provided input fields.
 
 Set Priorities: Mark important tasks by including an asterisk (*) in the task description.
@@ -23,7 +25,8 @@ Stay organized. Utilize due date reminders to ensure you don't miss important de
 Getting Started
 To use the To-Do App, simply clone the repository and open the index.html file in your web browser. The app is built using HTML, CSS, and JavaScript, making it accessible across various devices.
 
-Technologies Used
+Technologies  
+
 HTML: Structured the content and layout of the app.
 CSS : Styled the app's visual elements for a clean and modern look.
 JavaScript: Implemented interactive features, task tracking, and reminders.
@@ -50,8 +53,7 @@ Screenshot 4 :
 
 
 
-License
-This project is licensed under the MIT License.
+
 
 
 
